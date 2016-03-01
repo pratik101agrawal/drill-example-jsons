@@ -1,0 +1,18 @@
+[
+{
+	"deptId":1,
+	"deptName":"Corporate"
+},
+{
+	"deptId":2,
+	"deptName":"HRD"
+},
+{
+	"deptId":3,
+	"deptName":"Sales"
+},
+{
+	"deptId":4,
+	"deptName":"Marketing"
+}
+]

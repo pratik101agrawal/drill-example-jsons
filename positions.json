@@ -1,0 +1,31 @@
+[{  "roleId": 1,
+  "roleTitle": "President"
+},
+{  "roleId": 2,
+  "roleTitle": "Vice President"
+},
+{  "roleId": 3,
+  "roleTitle": "Associate Vice President"
+},
+{  "roleId": 4,
+  "roleTitle": "Senior Director"
+},
+{  "roleId": 5,
+  "roleTitle": "Director"
+},
+{  "roleId": 6,
+  "roleTitle": "Senior Manager"
+},
+{  "roleId": 7,
+  "roleTitle": "Manager"
+},
+{  "roleId": 8,
+  "roleTitle": "Architect"
+},
+{  "roleId": 9,
+  "roleTitle": "Engineer"
+},
+{  "roleId": 10,
+  "roleTitle": "Trainee"
+}
+]

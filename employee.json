@@ -1,0 +1,32 @@
+[
+{
+  "empId": 1,
+  "firstName": "Ann",
+  "lastName": "Boyd",
+  "roleId": 5,
+  "deptId": 1,
+  "hireDate": "2000-01-01 00:00:00.0",
+  "managerId": 0,
+  "gender": "F"
+},
+{
+  "empId": 2,
+  "firstName": "Chris",
+  "lastName": "Dupont",
+  "roleId": 6,
+  "deptId": 2,
+  "hireDate": "2001-02-01 00:00:00.0",
+  "managerId": 1,
+  "gender": "M"
+},
+{
+  "empId": 3,
+  "firstName": "Emma",
+  "lastName": "Fairbanks",
+  "roleId": 7,
+  "deptId": 4,
+  "hireDate": "2001-12-01 00:00:00.0",
+  "managerId": 2,
+  "gender": "F"
+}
+]
